@@ -22,7 +22,7 @@ export const Footer = () => {
     <Container>
         <Left> 
             <Logo>MENSH.</Logo>
-            <Desc> We pride ourselves in being MENSH. Polo Assn.’s official online store, and not only do we assure 100% authenticity and quality for all our products, but we also house everything from polo shirts to those must-have sneakers you may have spotted and loved in one of our stores in passing. Don’t worry, we have them all!
+            <Desc>Polo Assn.’s official online store, and not only do we assure 100% authenticity and quality for all our products, but we also house everything from polo shirts to those must-have sneakers you may have spotted and loved in one of our stores in passing. Don’t worry, we have them all!
             </Desc>
             <Socialcontainer>
               <SocialIcon>
